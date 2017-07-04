@@ -1,0 +1,807 @@
+id,app,eg,value,index,description
+1,Floor Exercise,1,A,1,From hdst. lower to L-sit or strad. L-sit (2 s.).
+2,Floor Exercise,1,A,7,"From stand, Swiss press to hdst. (2 s.)."
+3,Floor Exercise,1,A,13,Rock to hdst. from prone position (2 s.).
+4,Floor Exercise,1,A,19,Handstand (2 s.).
+5,Floor Exercise,1,B,2,V-sit (2 s.).
+6,Floor Exercise,1,B,8,"Piked body, str. arm or str. body, bent arm press to hdst. with legs together (2 s.)."
+7,Floor Exercise,1,B,14,"Swiss press from split, L-sit, strad. L-sit or front sup. (2 s.)."
+8,Floor Exercise,1,B,20,Press or lower or swing to Japanese hdst. (2 s.).
+9,Floor Exercise,1,C,3,V-sit with legs horiz. (2 s.).(Manna)
+10,Floor Exercise,1,C,9,V-sit (2 s) and press to hdst. (2 s.)
+11,Floor Exercise,1,C,21,From split press to Japanese handstand (2 s.).
+12,Floor Exercise,1,D,10,Manna (2 s.) and press to hdst. (2 s.)
+13,Floor Exercise,1,D,16,"From Manna (2 s.), turn over (dislocation) to handstand (2 s.)."
+14,Floor Exercise,1,A,25,"Support lever, legs straddle (2 s.)."
+15,Floor Exercise,1,A,31,½ or 1/1 turn in handstand or to handstand.
+16,Floor Exercise,1,A,37,"From L-sit, etc., turn over bwd. to stand."
+17,Floor Exercise,1,B,26,Support lever (2 s.).
+18,Floor Exercise,1,B,32,From straddled support lever (2 s.) press hdst. (2 s.).
+19,Floor Exercise,1,B,44,Endo roll to handstand (2 s.).
+20,Floor Exercise,1,C,27,Swallow (2 s.).
+21,Floor Exercise,1,C,33,From support lever 2 s. press handstand (2 s.).
+22,Floor Exercise,1,C,45,Endo roll piked to handstand (2 s.). Also final phase with straddle.
+23,Floor Exercise,1,D,34,From Swallow 2 s. press to Japanese hdst. (2 s.).(Alvariño)
+24,Floor Exercise,1,A,49,"From stand or rear support, push off 1 foot through hdst. or back walkover."
+25,Floor Exercise,1,A,55,Forward walkover.
+26,Floor Exercise,1,A,61,Cross or side split (stop required).
+27,Floor Exercise,1,A,67,Any standing scale (2 s.).
+28,Floor Exercise,1,B,68,Any standing scale with 180° hold (2 s.).
+29,Floor Exercise,1,A,73,Jump bwd. to front support.
+30,Floor Exercise,1,A,79,Butterfly.
+31,Floor Exercise,1,A,85,Breakdance variations.
+32,Floor Exercise,1,A,91,2 circles or flairs.
+33,Floor Exercise,1,B,74,Jump bwd. with pike-stretch or with 1/1 turn to front support.
+34,Floor Exercise,1,B,80,Butterfly with 1/1 twist fwd. or bwd.(Tong Fei)
+35,Floor Exercise,1,B,92,Circles or flair to handstand.
+36,Floor Exercise,1,C,81,Butterfly with 2/1 twist.
+37,Floor Exercise,1,C,93,(Gogoladze) Flair or circle to hdst. continue to flair or circle.
+38,Floor Exercise,1,D,94,Flair hopping with 360° t. bwd. thr. hdst and back to flair (2 hops).
+39,Floor Exercise,1,A,103,Flair with ½ spindle.
+40,Floor Exercise,1,A,115,Russian wendeswing with 360° or 540°
+41,Floor Exercise,1,B,98,Lower from hdst. to flair or circle.
+42,Floor Exercise,1,B,104,Flair with 1/1 spindle (in 2 circles).
+43,Floor Exercise,1,B,110,Flair with ½ spindle to handstand.
+44,Floor Exercise,1,B,116,Russian wendeswing with 720° or 900°
+45,Floor Exercise,1,C,105,Flair with >270 spindle (in 2 circles) directly to handstand.
+46,Floor Exercise,1,C,117,(Fedorchenko)Russian wendeswing with 1080° or more.
+47,Floor Exercise,1,D,112,Flair with > 270º spindle (in 2 circles) directly to handstand and continue to circle or flair.
+48,Floor Exercise,1,A,121,Roll bwd. through hdst. with ½ t.
+49,Floor Exercise,1,B,122,Roll bwd. with hop 1/1 t. through hdst.
+50,Floor Exercise,2,A,1,Neck or head spring w. ½ t. to hdst. or 1/1 t. to rear support.
+51,Floor Exercise,2,A,7,Forward handspring or flyspring.
+52,Floor Exercise,2,A,13,Dive roll.
+53,Floor Exercise,2,A,19,Salto fwd. tucked or piked.
+54,Floor Exercise,2,B,14,Jump with 1/1 twist to fwd. hdsp.
+55,Floor Exercise,2,B,20,Salto fwd. stretched.
+56,Floor Exercise,2,C,21,Salto fwd. str. to front support.
+57,Floor Exercise,2,D,10,Handspring salto fwd. tuck (Marinich style).(Morandi)
+58,Floor Exercise,2,D,22,Double salto fwd. tucked.
+59,Floor Exercise,2,E,23,Double salto fwd. piked.
+60,Floor Exercise,2,A,25,Aerial walkover fwd.
+61,Floor Exercise,2,A,31,½Salto tucked and piked ½ t.½
+62,Floor Exercise,2,B,32,Salto tucked with 1/1 t.
+63,Floor Exercise,2,B,38,Salto fwd. str. with ½ t.
+64,Floor Exercise,2,B,44,Salto tucked 3/2 t.
+65,Floor Exercise,2,C,39,Salto fwd. str. with 1/1 t.
+66,Floor Exercise,2,C,45,Salto fwd. str. with 3/2 t.
+67,Floor Exercise,2,D,40,Salto fwd. str. with 2/1 t.
+68,Floor Exercise,2,E,29,Double salto fwd. tucked with ½ t.
+69,Floor Exercise,2,E,41,Salto fwd. str. with 5/2 t.
+70,Floor Exercise,2,F,30,Double salto fwd. piked with ½ t.
+71,Floor Exercise,2,F,42,Salto fwd. str. with 3/1 t.(Shirai 2)
+72,Floor Exercise,2,B,50,Salto fwd. t. or p. to front support.
+73,Floor Exercise,2,C,51,"Salto fwd. t., p or str. with 1/1 t. to front support."
+74,Floor Exercise,2,D,58,Jump fwd. with ½ t. to dbl. salto bwd. t. (Deferr)
+75,Floor Exercise,2,F,54,Double salto fwd. tucked with 1/1 turn.
+76,Floor Exercise,3,A,1,Salto backwards tucked or piked.
+77,Floor Exercise,3,A,7,Salto backwards tucked or piked w. ½ t.
+78,Floor Exercise,3,A,13,Back handspring
+79,Floor Exercise,3,B,2,Salto backwards stretched.
+80,Floor Exercise,3,B,8,Salto backwards str. w. ½ t.
+81,Floor Exercise,3,B,14,Tempo salto bwd.
+82,Floor Exercise,3,B,20,Salto backwards tucked w. 3/2 t. .
+83,Floor Exercise,3,C,3,Double salto bwd. tucked.
+84,Floor Exercise,3,C,15,Double salto bwd. piked.
+85,Floor Exercise,3,C,21,Salto bwd. str. with 3/2 t.
+86,Floor Exercise,3,D,4,Double salto bwd. t. or piked with 1/1 t. Also Arabian double t. or p. ½ t. (Tsukahara)
+87,Floor Exercise,3,D,10,Arabian double tucked or piked or double salto bwd. t. or p. with ½ t.
+88,Floor Exercise,3,D,22,Salto bwd. str. with 5/2 t.
+89,Floor Exercise,3,E,5,Double salto bwd. tucked with 2/1 t.
+90,Floor Exercise,3,E,11,Double salto bwd. t. with 3/2 t. or Salto bwd. str. 3/2 to fwd. salto tucked
+91,Floor Exercise,3,E,23,Salto bwd. str. with 7/2 t.
+92,Floor Exercise,3,G,6,Double salto bwd. tucked with 3/1 (Ri Jong Song)
+93,Floor Exercise,3,F,12,Double salto bwd. tucked with 5/2
+94,Floor Exercise,3,H,18,Triple salto bwd. tucked. (Liukin)
+95,Floor Exercise,3,A,37,Jump bwd. with ½ t. to roll fwd.
+96,Floor Exercise,3,A,43,Jump bwd. with ½ t. to handspring forward.
+97,Floor Exercise,3,B,26,Salto bwd. str. with 1/1 t.
+98,Floor Exercise,3,B,44,Jump bwd. with ½ t. to salto fwd. t. or p. to f. sup.
+99,Floor Exercise,3,C,27,Salto bwd. str. with 2/1 t.
+100,Floor Exercise,3,D,28,Salto bwd. str. with 3/1 t.
+101,Floor Exercise,3,E,47,Double salto straddled with 1/1 t.(Lou Yun)
+102,Floor Exercise,3,F,30,Salto bwd. str. with 4/1 t.(Shirai / Nguyen)
+103,Floor Exercise,3,F,48,KolyvanovSalto bwd. str. with 2/1 t and salto bwd piked.
+104,Floor Exercise,3,D,52,Double salto bwd. stretched.
+105,Floor Exercise,3,E,53,Arabian Jump bwd. to dbl. salto fwd. str. or double salto bwd. stretched with ½ t.Tamayo
+106,Floor Exercise,3,E,58,Double salto bwd. stretched with 1/1 t. or arabian Jump bwd. to dbl. salto fwd. str. with ½ t.
+107,Floor Exercise,3,F,54,Double salto bwd. str. with 3/2 t. or arabian Jump bwd. to dbl. salto fwd. str. with 1/1 t.
+108,Floor Exercise,3,F,59,Double salto bwd. str. with 2/1 t.
+109,Floor Exercise,3,G,65,Double salto bwd. str. with 5/2 t.
+110,Floor Exercise,3,H,71,Double salto bwd. str. with 3/1 t. Shirai 3
+111,Pommel Horse,1,A,1,Scissor forward.
+112,Pommel Horse,1,A,7,Scissor forward with ½ t.
+113,Pommel Horse,1,A,13,Scissor backward.
+114,Pommel Horse,1,A,19,Scissor backward with ½ turn.
+115,Pommel Horse,1,B,8,Scissor forward with hop swd.
+116,Pommel Horse,1,B,14,Double scissor fwd.(¼ t. fwd. a. ¼ t. bwd.).
+117,Pommel Horse,1,C,3,Double Scissor Fwd. with Travel Sideways through Handstand.(Stepanyan)
+118,Pommel Horse,1,C,9,Scissor fwd. with hop swd. from one end to the other (3/3).
+119,Pommel Horse,1,C,15,Double scissor fwd. (¼ t. fwd. a. ¼ t. bwd.) with travel sdw.
+120,Pommel Horse,1,D,4,"Scissor fwd. w. ¼ t. through hstd. on 1 p., lower to sup. w. strad. legs on the other arm."
+121,Pommel Horse,1,D,16,Double scissor forward with hop sideways from one end to the other (3/3).(Mikulak)
+122,Pommel Horse,1,D,22,"Swing bwd. w. ¼ t. through hstd. on 1 p., lower to sup. w. strad. legs on the other arm."
+123,Pommel Horse,1,B,26,Scissor bwd.with hop swd.(also with ½ t.).
+124,Pommel Horse,1,B,32,Double scissor bwd. (¼ t. fwd. a. ¼ t. bwd).
+125,Pommel Horse,1,B,44,Leg cut or undercut bwd. through hdst. and lower to support w. strad. legs.
+126,Pommel Horse,1,C,27,Scissor bwd. with hop swd. from one end to the other
+127,Pommel Horse,1,C,45,Leg cut or undercut bwd. through hdst. and lower to flair or circle.
+128,Pommel Horse,1,D,34,"Scissor fwd. 1/4 t. to hdst., 1/4 t. and straddle down bwd on 1 arm on the other pommel.(Bryan)"
+129,Pommel Horse,1,D,40,"Scissor bwd. ¼ t. to hdst., ¼ t. and straddle down bwd on 1 arm on the other pommel."
+130,Pommel Horse,2,A,1,Any circle or flair in side support.
+131,Pommel Horse,2,A,13,Circles in cross support frontways on end.
+132,Pommel Horse,2,A,19,Circles in cross support rearways on end.
+133,Pommel Horse,2,B,2,Circle in side support on 1 pommel.
+134,Pommel Horse,2,B,8,Circle with support outside pommels or between the pommels.
+135,Pommel Horse,2,B,14,Circles in cross support on 1 pommel
+136,Pommel Horse,2,B,20,Circles in cross support between the pommels.
+137,Pommel Horse,2,A,25,"Circle in side sup., ¼ spindle to cross sup."
+138,Pommel Horse,2,A,31,"Cross support on end, circle with ¼ spindle to side support."
+139,Pommel Horse,2,B,26,"Side support, ½ spindle."
+140,Pommel Horse,2,B,32,"Cross support on end, ½ spindle."
+141,Pommel Horse,2,B,38,Flair or circle through hdst. and lower to sup. w. strad. legs.
+142,Pommel Horse,2,C,39,Flair or circle through hdst. (with or without ½ t.) and lower to flair or circle.(Tippelt)
+143,Pommel Horse,2,C,45,Flair with hop travel bwd. through hdst. and lower to sup. w. straddle legs.
+144,Pommel Horse,2,D,28,Any side support 1/1 spindle w. legs straddle inside max. 2 circles.
+145,Pommel Horse,2,D,34,"Any cross support 1/1 spindle within max. 2 circles. (also with ?, ½ or 2/3 travel)."
+146,Pommel Horse,2,D,46,Flair with hop travel bwd. through hdst. and lower to circles or flairs.
+147,Pommel Horse,2,E,29,Any side support 1/1 spindle with hand support to the other side and return (max. 2 flairs or circles).(Eichorn)
+148,Pommel Horse,2,E,35,"Cross support, 1/1 spindle with hands between the pommels max. 2 circles. (also with ? travel)."
+149,Pommel Horse,2,E,41,1/1 spindle w. legs straddle or together on the pommels inside max. 2 circles. (Berki)
+150,Pommel Horse,2,F,30,"Side support, 1/1 spindle with both pommels between the hands (flair or circle)."
+151,Pommel Horse,2,A,61,Double rear (kehr).
+152,Pommel Horse,2,B,50,Direct Stöckli A (DSA).
+153,Pommel Horse,2,B,56,Direct Stöckli B (DSB).
+154,Pommel Horse,2,B,62,Kehrswing bwd. hop with ½ t. on the pommels.
+155,Pommel Horse,2,B,68,Kehr with 270º t. on 1 p. (Sohn technique) from cross to side support.
+156,Pommel Horse,2,C,51,Reverse Stöckli or DSA strad. through hdst. and lower to sup. w. strad. legs or circle.
+157,Pommel Horse,2,C,69,Kehr with 270º t. on 1 p. (Sohn technique) from side to cross support.
+158,Pommel Horse,2,E,65,Kehr with 1/1 turn on 1 pommel.(Sohn)
+159,Pommel Horse,2,F,54,"Reverse Stöckli, DSA or pommel circle strad. through hdst., 3/3 travel (fwd.- bwd), 360º turn to flairs."
+160,Pommel Horse,2,A,79,"Wendeswing fwd. w. ½ t. to sup. fw. on the end, from side support using 1 or 2 pommels."
+161,Pommel Horse,2,A,91,Schwabenflank.
+162,Pommel Horse,2,B,74,Direct Tramlot.
+163,Pommel Horse,2,B,80,"Reverse Stöckli, 180° or 270° turn in one circle."
+164,Pommel Horse,2,B,86,Double Swiss.
+165,Pommel Horse,2,B,92,Czechkehre on the leather or pommels.
+166,Pommel Horse,2,C,81,Reverse Stöckli with 270° t. to 1 pommel.
+167,Pommel Horse,2,D,88,Czechkehre outside p. (Pinheiro)
+168,Pommel Horse,2,E,83,Reverse Stöckli with 360° t. on 1 pommel.(Bezugo)
+169,Pommel Horse,2,A,97,Russian wendeswing with 180
+170,Pommel Horse,2,A,103,"On the leather, Russian wendeswing with 180°, also with travel."
+171,Pommel Horse,2,B,98,Russian wendeswing with 360
+172,Pommel Horse,2,B,104,"On the leather , Russian wendeswing with 360° or 540°."
+173,Pommel Horse,2,B,110,Russian wendeswing with 180° or 270° on 1 p. or between the pommels.
+174,Pommel Horse,2,C,99,Russian wendeswing with 720
+175,Pommel Horse,2,C,105,"On the leather, Russian wendeswing with 720° or 900°."
+176,Pommel Horse,2,C,111,Russian wendeswing with 360° pommel or between the pommels.
+177,Pommel Horse,2,D,100,Russian wendeswing with 1080° or more.
+178,Pommel Horse,2,D,106,"On the leather, Russian wendeswing with 1080° or more."
+179,Pommel Horse,2,D,112,720° mel or between the pommels.
+180,Pommel Horse,2,E,113,1080º Russian wendeswing or more on 1 pommel or between the pommels.
+181,Pommel Horse,3,A,1,Circles with travel fwd. in side support (also with ¼ t.).
+182,Pommel Horse,3,A,13,Circles with travel bwd. in side support.
+183,Pommel Horse,3,B,2,Circles with travel fwd. in side support (3/3).
+184,Pommel Horse,3,B,8,Circles with hop travel fwd. in side support.
+185,Pommel Horse,3,B,14,Circles with travel bwd. in side support (3/3).
+186,Pommel Horse,3,B,20,Circles with travel bwd. with hop.
+187,Pommel Horse,3,C,3,"Circles with travel fwd. in side support (3/3), hands between pommels."
+188,Pommel Horse,3,C,9,Circles with hop tr. fwd. 2x in side support (3/3).
+189,Pommel Horse,3,C,15,"Circles with travel bwd. in side support (3/3), hands between pommels."
+190,Pommel Horse,3,C,21,Circles with travel bwd. with hop 2x.
+191,Pommel Horse,3,D,4,"From side sup. on 1 end., travel fwd. over both p. to sup. on other end (3/3) in 1 circle."
+192,Pommel Horse,3,D,10,"From sup. frontways on one end, travel hop over both p. to sup. frontways on other end."
+193,Pommel Horse,3,D,16,"From side sup. on 1 end., travel bwd. over both p. to side sup. on the other end (3/3) in 2 circles w."
+194,Pommel Horse,3,D,22,"From side support on one end, travel hop over both p. to sup. frways on other end (1-2 to 4-5)."
+195,Pommel Horse,3,E,23,"From side sup. beside the p., travel hop o. 2 p. to sup. fwd on other end (1-1 to 5-5).(Yamawaki)"
+196,Pommel Horse,3,B,26,All travels with ½ spindle in cross support (1/3 travel).½
+197,Pommel Horse,3,B,32,Travel fwd. or bwd. with ¼ spindle to side support.
+198,Pommel Horse,3,B,44,Travel fwd. in cross support (½ or 2/3).
+199,Pommel Horse,3,C,27,All travels with ½ spindle in cross support (½ or 2/3 travel).½
+200,Pommel Horse,3,C,33,All travels with ½ spindle in side support. ½
+201,Pommel Horse,3,C,45,"Travel fwd. in cross support with support on leather, pommel, pommel, leather(3/3) (1-2-4-5)."
+202,Pommel Horse,3,D,34,Cross travel fwd. 3/3 with ½ Spindle from one pommel over the other pommel.(Nin Reyes)
+203,Pommel Horse,3,D,46,Any other travel fwd. in cross support to other end (3/3).(Magyar)
+204,Pommel Horse,3,E,29,From an end side travel with 2x other end.
+205,Pommel Horse,3,E,35,Travel 3/3 over both pommels with ½ Spindle.½ pívot.(Nin Reyes 2)
+206,Pommel Horse,3,E,41,3/3 cross support travel fwd. with hop. (Driggs)
+207,Pommel Horse,3,E,47,3/3 cross support travel fwd. in flairs.
+208,Pommel Horse,3,A,55,Travel bwd. in cross sup. from one horse part or pommel to another (?).?
+209,Pommel Horse,3,B,56,Travel bwd. in cross support (½ or 2/3).
+210,Pommel Horse,3,C,51,"Fr. cr. sup. on end, tr. fwd. in 2 circles to 12nd p., with ¼ turn to side sup. on other end (3/3(Bilozerchev)"
+211,Pommel Horse,3,C,57,"Travel bwd. in cross sup with support on leather, pommel, pommel, leather(3/3) (5-4-2-1)."
+212,Pommel Horse,3,C,63,"From support on end, kehr fwd. around 1Stöckli around 2nd p. to side sup., p. betw. hands. (Urzica)"
+213,Pommel Horse,3,D,58,Any other travel bwd. in cross support to other end (3/3).(Sivado)
+214,Pommel Horse,3,D,64,"p., rev. (Moguilny)Kehre fwd., rev. Stöckli, kehre fwd."
+215,Pommel Horse,3,D,70,"(Belenki)Kehre bwd., kehre fwd., kehre bwd."
+216,Pommel Horse,3,E,59,Any other travel bwd. in cross support to other end (3/3) in flairs.
+217,Pommel Horse,3,C,75,"From sup. on 1 p., Russian wendeswing fwd. to other end without sup. on or btw. the p. (side to side support, side to cross support, cross to side support)."
+218,Pommel Horse,3,C,81,"From side support pommel between hand, rus-sian wendeswing 360º with travel to the other end in side support.(Kroll)"
+219,Pommel Horse,3,D,76,"From sup. on end, Russian wendeswing fwd. to other end without sup. on or btw. the p. (side to side support, side to cross, cross to side, cross to cross) with full circle after."
+220,Pommel Horse,3,D,82,Any Russian wend. with 360(Tong Fei)(Roth)
+221,Pommel Horse,3,D,88,Reverse Stöckli from cross support on one end to the other.
+222,Pommel Horse,3,E,83,Any 3/3 travel in Russian type wendeswing with 720(Wu Guonian)
+223,Pommel Horse,3,E,89,"On the leather, from cross support, Russian wendeswing with 360° or 540º over both pom-mels. (Vammen)"
+224,Pommel Horse,4,A,1,Wende (from circle or flair).
+225,Pommel Horse,4,B,2,Chaguinian to wende.
+226,Pommel Horse,4,B,8,"On the end, Russian wendeswing with 360°"
+227,Pommel Horse,4,B,14,"Fr. s. sup. fw., wendeswing fwd. w. ½ t. to sup. fw. followed by Schwabenflank a. wende off."
+228,Pommel Horse,4,B,20,Circle or flair through hdst. (also with ¾ t. with or without travel).
+229,Pommel Horse,4,C,9,"On the end, Russian wend. with 720°"
+230,Pommel Horse,4,C,15,"DSA, rev. Stöckli or circle on one pommel through hdst."
+231,Pommel Horse,4,C,21,Circle or flair with hop travel bwd. thr. hdst.
+232,Pommel Horse,4,D,4,"From side sup. on end, circle or flair to hdst. and travel 3/3 with 450° or more turn.(Kolyvanov)"
+233,Pommel Horse,4,D,10,"On the end, Russian wendeswing with 1080º or more."
+234,Pommel Horse,4,D,16,DSA with hop bwd. through hdst.
+235,Pommel Horse,4,E,5,DSA to hdst. 3/3 with 450º or more turn.
+236,Rings,1,A,1,Uprise fwd. to support.
+237,Rings,1,A,7,"Swing bwd in support, fall to bwd swing in hang."
+238,Rings,1,A,13,"From hang, underswing w. shoulders above rings."
+239,Rings,1,B,8,#1 and counter salto fwd. to bwd swing in hang. (also from Li Ning).
+240,Rings,1,B,20,"From a hang or support, back toss to hang rw. to uprise fwd. to support.(Li Ning)(Li Ning 2)"
+241,Rings,1,A,25,"From hang, felge upward to support."
+242,Rings,1,A,31,Dislocate bwd. piked or stretched.
+243,Rings,1,A,37,Uprise bwd. to support.
+244,Rings,1,A,43,Inlocate piked or stretched.
+245,Rings,1,B,26,Swing fwd. with straight arms through hdst.
+246,Rings,1,B,32,Felge upward to support with straddled legs supported above the rings (2 s.).(Deltchev)
+247,Rings,1,B,38,Uprise bwd. or giant swing piked or str. through handstand.
+248,Rings,1,B,44,Backward swing to salto fwd. p. to support(Honma)
+249,Rings,1,C,27,Tucked double felge bwd. to hang. (Guczoghy)
+250,Rings,1,C,45,.Honma stretched.
+251,Rings,1,D,28,Piked double felge bwd. to hang.
+252,Rings,1,E,29,Stretched double felge bwd. to hang(O’Neill)
+253,Rings,1,A,49,Slow inlocate from hang.
+254,Rings,1,A,55,Kip to support.
+255,Rings,1,A,61,Back kip to support.
+256,Rings,1,A,67,Fwd. swing to swing bwd. in hang.
+257,Rings,1,B,62,Back kip with straight arms to support.
+258,Rings,1,B,68,Uprise bwd. to straddled L-sit (2 s.).
+259,Rings,1,C,51,Double salto fwd. tucked to hang.(Yamawaki)
+260,Rings,1,C,69,"Bwd. swing, salto fwd tuck or piked to support."
+261,Rings,1,D,52,Double salto fwd. piked or stretched to hang.(Jonasson)
+262,Rings,1,A,73,"From support or cross, felge bwd. piked or stretched to support."
+263,Rings,1,B,80,Back kip or roll bwd str. to handstand (2 s.).
+264,Rings,1,B,92,From support swing bwd. to handstand (2 s.).
+265,Rings,1,C,81,Swing fwd. with straight arms to hdst. (2 s.).
+266,Rings,1,C,87,Uprise bwd. or giant swing to handstand with straight arms (2 s.).
+267,Rings,1,C,93,Honma and swing bwd. to handstand (2 s.).
+268,Rings,1,D,94,Honma str. and swing bwd. to handstand (2 s.).
+269,Rings,2,A,1,L-sit (2 s.) or straddled L-sit (2 s.).
+270,Rings,2,A,7,Hanging scale rearways (back lever) (2 s.)
+271,Rings,2,A,13,Hanging scale frontways (front lever) (2 s.).
+272,Rings,2,B,2,V-sit (2 s.).
+273,Rings,2,B,8,Support scale straddled (2 s.).
+274,Rings,2,B,14,Any cross (2 s.).
+275,Rings,2,C,3,Inverted cross (2 s.).
+276,Rings,2,C,9,Support scale (planche)(2 s.).
+277,Rings,2,C,15,V cross (2 s.).
+278,Rings,2,D,4,Press from inverted cross to handstand (2 s.).
+279,Rings,2,D,10,Support scale at ring height (swallow or maltese cross) (2 s.).(Hirondelle)
+280,Rings,2,D,22,"V Cross, press to V-sit (2 sec.). De cristo p. vert. subir a ángulo p. vert. (2 s.)(Tsukahara 3)"
+281,Rings,2,E,11,Inverted swallow (2 s.).
+282,Rings,2,A,25,Press to hdst. with bent body and bent arms (2 s).- Also straddle legs.
+283,Rings,2,A,31,Slow roll fwd. piked to support.
+284,Rings,2,B,26,"Press to hdst. with str. body a. bent arms or b. body. a. str. arms, or fr. strad. sup. lever (2 s.)."
+285,Rings,2,B,32,Slow roll fwd. stretched to support.
+286,Rings,2,B,38,Slow roll bwd. slowly with str. arms and str. body to L sit (2 s.).
+287,Rings,2,C,27,Press to hdst. with str. body and str. arms or from sup. lever (2 s.).
+288,Rings,2,C,33,Slow roll fwd. stretched with straight arms to handstand (2 s.).
+289,Rings,2,C,39,Slow roll fwd. stretched (bent or straight arms)to cross or L-cross (2 s.).
+290,Rings,2,D,28,Press to hdst. with str. body and str. arms from swallow (2 s.).
+291,Rings,2,D,34,Slow roll fwd. stretched with straight arms to inverted cross (2 s.).
+292,Rings,2,D,40,Pull with straight arms and body through mo-mentary front lever to cross or L-cross (2 s.).(Pineda)
+293,Rings,2,D,46,(Pham)
+294,Rings,2,E,29,Pineda to inverted Cross (2 s.).(Petrounias)
+295,Rings,2,E,41,Pineda to V cross (2 s.).(Tsukahara 2)
+296,Rings,2,E,47,Pull with straight body and arms through mo-ment. front lever to swallow (2 s.).(Bhavsar)
+297,Rings,2,B,50,Vertical pull up with bent arms to hanging scale rearways (2 s.).
+298,Rings,2,B,56,"Fr. cross or L-cr., turn fwd. to back lever (2 s.)."
+299,Rings,2,B,62,"From hdst., lower horiz. to back lever (2 s.)."
+300,Rings,2,B,68,"From handstand, lower slowly with straight arms through inverted cross to inverted hang."
+301,Rings,2,C,51,Vertical pull up with straight arms to hanging scale rearways (2 s.)
+302,Rings,2,C,57,Vertical pull up with straight arms to L-sit (2 s.)
+303,Rings,2,C,63,"From sup. or cross, lower slowly with str. arms to hang, and pull with str. arms to cross (2 s.).(Li Xiaoshuang)"
+304,Rings,2,D,52,Roll bwd. slowly with str. arms and body to cross or L-cross (2 s.).(Azarian)
+305,Rings,2,D,58,"From or through hanging scale rearways, with straight arms pull to cross or L-cross (2 s.).(Nakayama)"
+306,Rings,2,D,64,Vertical pull up with straight arms to cross or L-cross (2 s.).
+307,Rings,2,D,70,"From swallow, press to support scale (2 s.)."
+308,Rings,2,E,53,Azarian to V Cross (2 s.).(Tay)
+309,Rings,2,E,59,Nakayama to V cross (2 s.).(NG Kiu Chung)
+310,Rings,2,E,65,"From planche, lower horiz. and slowly to hang-ing scale rw. and press to swallow (2 s.) or from swallow same to planche or planche to planche.(Van Gelder)"
+311,Rings,2,E,71,"From swallow , lower slowly to handing scale, press to swallow (2 s.)."
+312,Rings,2,F,60,Through hanging scale rearways (no hold re-quired) pull with str. body through cross to inv. swallow (2 s.). (Zahran)
+313,Rings,2,F,72,From hanging scale rw. press to swallow (also to Support Scale) (2 s.).(Zanetti)
+314,Rings,2,C,75,"From L-sit, press to inverted cross (2 s.)."
+315,Rings,2,C,81,"From cross or L-cross, press to L-sit (2 s."
+316,Rings,2,D,76,"From L-cross, press to inverted cross (2 s.)."
+317,Rings,2,D,82,"From support lever, press to inverted cross (2 s.)."
+318,Rings,2,D,88,"From cross, press to planche without first going to support (2 s.)."
+319,Rings,2,D,94,From inverted cross lower slowly to inverted hang and felge bwd. slowly to cross (2 s.).(Vorobiov))
+320,Rings,2,E,77,"From cross, press with straight body to inverted cross (2 s.)."
+321,Rings,2,E,83,"From swallow, press to inverted cross (2 s.)."
+322,Rings,2,E,89,"From cross, press to swallow (2 s.)."
+323,Rings,2,E,95,From inverted cross lower slowly to inverted hang and felge bwd. slowly to swallow (2 s.).(Jotchev)
+324,Rings,2,D,106,Slowly roll fwd. str. w. str. arms through Cross and press to planche without first going to support (2 s.).(Ng Kiu Chung 2)
+325,Rings,2,D,112,"Slow roll fwd. with str. body and arms to Cross or L-Cross (2 s.), also from inverted hang.(Davtyan)"
+326,Rings,2,E,101,Roll bwd. slowly with str. arms and body to free sup. scale (2 s.)(Yan Mijayoung)
+327,Rings,2,E,107,From hang vertical pull up with straight arms to (Balandin 1)
+328,Rings,2,E,119,Slow roll fwd. with straight body and arms through cross to inverted cross (2 s.).(Wynn)
+329,Rings,2,F,102,Roll bwd. slowly with str. arms and body to swallow (2 s.).
+330,Rings,2,F,108,Azarian to inverted Swallow (2 s.).(Tulloch)
+331,Rings,2,F,114,Through hang rearways press with straight arms and straight body to inverted cross (2 s.).(Carmona)
+332,Rings,2,F,120,From hang vertical pull up with straight arms to (2 s.).(Balandin 2)
+333,Rings,3,B,2,"Uprise fwd. to L-sit, (2 s.)."
+334,Rings,3,B,8,Kip to L-sit (2 s.).
+335,Rings,3,B,14,Backward swing to salto fwd. p. to L-sit (2 s.).(Honma)
+336,Rings,3,C,3,Uprise fwd. to V-sit (2 s.).
+337,Rings,3,C,9,Kip to V-sit (2 s.).
+338,Rings,3,D,16,Salto fwd. betw. rings direc. to cross / L-cross (2 s.).
+339,Rings,3,D,22,"Bwd. swing, salto fwd p. to cross or L- cross (2 s.)."
+340,Rings,3,E,17,Salto fwd. between rings directly to V cross (2 s.).(Tanaka)
+341,Rings,3,C,27,Uprise fwd. to cross or L-cross (2 s.).
+342,Rings,3,C,33,Uprise bwd. to cross or L-cross (2 s.).
+343,Rings,3,C,39,Li Ning or Li Ning 2 to cross or L-cross (2 s.).
+344,Rings,3,C,45,Felge upward to cross or L-cross (2 s.).
+345,Rings,3,D,40,(Tsukahara) Li Ning or Li Ning 2 to V Cross (2 s.).
+346,Rings,3,D,46,Kip to V cross (2 s.).(Molinari)
+347,Rings,3,E,47,Felge upward to sup. scale at ring height (2 s.).
+348,Rings,3,F,48,Uprise fwd. to inv. swallow w.o. supp. phase (2 s.).(Rodrigues)
+349,Rings,3,C,51,"Kip to cross, or L-cross (2 s.)."
+350,Rings,3,C,57,Back kip to cross or L-cross (2 s.).
+351,Rings,3,C,63,Felge upward to support scale straddled (2 s.).
+352,Rings,3,C,69,Uprise bwd. to support scale straddled (2 s.).
+353,Rings,3,D,52,Back Uprise to V Cross (2 s.).(Kato)
+354,Rings,3,D,64,Felge upward to support scale (2 s.).
+355,Rings,3,D,70,Uprise bwd. to support scale (2 s.).
+356,Rings,3,E,53,Uprise bwd. to sup. scale at ring height (2 s.).
+357,Rings,3,E,59,Back kip to support scale at ring height (2 s.).
+358,Rings,3,F,54,Kip to inverted swallow (2 s.).
+359,Rings,3,C,75,Back kip to support scale straddled (2 s.).
+360,Rings,3,D,76,Back kip to support scale (2 s.).
+361,Rings,3,D,82,Felge bwd. stretched to free sup. scale (2 s.).
+362,Rings,3,D,88,Felge upward with straight arms to invert. cross (2 s.).
+363,Rings,3,D,94,Uprise bwd. to inverted cross (2 s.).
+364,Rings,3,D,100,Back kip to inverted cross (2 s.).
+365,Rings,4,A,1,Salto fwd. piked or stretched.
+366,Rings,4,A,19,Uprise bwd. and salto bwd t.
+367,Rings,4,B,2,Salto fwd. piked or stretched with ½ t.
+368,Rings,4,B,20,Uprise bwd. and salto bwd p. or str.(Köste)
+369,Rings,4,C,3,Salto fwd. piked or stretched with 1/1 or 3/2 t.
+370,Rings,4,C,9,Double salto fwd. tucked or tucked with ½ t.
+371,Rings,4,C,21,Uprise bwd. and salto bwd str. with 1/1 t.
+372,Rings,4,D,4,Salto fwd. piked or stretched with 2/1 t.
+373,Rings,4,D,10,Double salto fwd. tucked with 3/2 t (also 1/1 t.).(Fischer)
+374,Rings,4,D,16,Double salto fwd. piked or piked with ½ t.(Balabanov)
+375,Rings,4,E,17,Double salto fwd. piked with 3/2 t. (also 1/1 t.).
+376,Rings,4,A,25,Salto bwd. piked or stretched.
+377,Rings,4,B,26,Salto bwd. stretched with ½ or 1/1 t.
+378,Rings,4,B,32,Double salto bwd. tucked or piked.
+379,Rings,4,C,27,Salto bwd. stretched with 2/1 t. or 3/2 t.
+380,Rings,4,C,33,Double salto bwd. stretched.
+381,Rings,4,C,39,½ ou Double salto bwd. t. with ½ or 1/1 t.½ o
+382,Rings,4,C,45,Salto bwd. str. with 1/1 t. and salto t.
+383,Rings,4,D,40,Double salto bwd. t. with 3/2 t.
+384,Rings,4,D,46,Double salto bwd. stretched with ½ or 1/1 t.
+385,Rings,4,E,29,Salto bwd. stretched with 3/1 t.
+386,Rings,4,E,41,Double salto bwd. t. with 2/1 t.
+387,Rings,4,G,36,Triple salto bwd. tucked.
+388,Rings,4,F,42,(Tuuha)Double salto bwd. t. with 5/2 t.
+389,Rings,4,F,48,Double salto bwd. stretched with 3/2 or 2/1 t.
+390,Vault,1,1.6,101,Forward handspring.
+391,Vault,1,2.4,107,Handspring fwd. and salto fwd. t.
+392,Vault,1,3.2,113,Hdspr. fwd. and salto fwd. p. w. ½ t. (Cuervo p.).
+393,Vault,1,1.8,102,Forward handspring with ½ t.
+394,Vault,1,2.8,108,Hdspr. fwd. and salto fwd. t. w. ½ t. (or Cuervo t.).
+395,Vault,1,3.6,114,Hdspr. fwd. and salto fwd. p. w. 1/1 t. (Cuervo p. w. ½ t.).
+396,Vault,1,2,103,Forward handspring with 1/1 t.
+397,Vault,1,3.2,109,Hdspr. fwd. and salto fwd. t. w. 1/1 t. (Cuervo t. w. ½ t.).
+398,Vault,1,4,115,Hdspr. fwd. and salto fwd. p. w. 3/2 t. (Cuervo p. w. 1/1 t.).
+399,Vault,1,2.2,104,Forward handspring with 3/2 t.
+400,Vault,1,4,110,(Kroll)Hdspr. fwd. and salto fwd. t. w. 3/2 t. (Cuervo t. w. 1/1 t.).
+401,Vault,1,4,116,Hdspr. fwd. w. 1/1 t. a. salto fwd. t.(Behrend)
+402,Vault,1,2.4,105,Forward handspring with 2/1 t.
+403,Vault,1,4.4,111,(Canbas)Hdspr. fwd. and salto fwd. t. w. 2/1 t. (or Cuervo t. w. 3/2 t.).
+404,Vault,1,4.4,117,Hdspr. fwd. w. 1/1 t. and salto fwd. p.(Rehm)
+405,Vault,1,2.6,106,Forward handspring with 5/2 t.(Tsygankov)
+406,Vault,1,2.8,112,Handspring fwd. and salto fwd. piked.
+407,Vault,1,4.8,118,Hdspr. fwd. 1/1 t. and Salto fwd piked ½ t.½ g.(Arican)
+408,Vault,1,3.6,171,Handspring fwd. and salto fwd. str.
+409,Vault,1,6,177,Handspring fwd. and salto fwd. str. w. 3/1 t.
+410,Vault,1,4,172,Hdspr. fwd. and salto fwd. str. w. ½ t. (Cuervo str.).
+411,Vault,1,5.2,178,(Roche)Handspring fwd. and dbl. salto fwd. t.
+412,Vault,1,5.6,190,Handspring fwd. and salto fwd. t. w. ½ t. and salto bwd. t.(Zimmerman)
+413,Vault,1,4.4,173,Hdspr. fwd. and salto fwd. str. w. 1/1 t. (Cuervo str. ½ t.).
+414,Vault,1,5.6,179,(Dragulescu)Roche with ½ turn.
+415,Vault,1,5.6,191,(Blanik)Handspring fwd. and dbl. salto fwd. piked.
+416,Vault,1,4.8,174,Hdspr. fwd. and salto fwd. str. w. 3/2 t. (Cuervo str. w. 1/1 t.).
+417,Vault,1,6,192,(RI Se Gwang 2)Dragulescu piked.
+418,Vault,1,5.2,175,Hdspr. fwd. and salto fwd. str. w. 2/1 t. (Cuervo str. 3/2 t.).
+419,Vault,1,5.6,176,(Yeo 2) Handspring fwd. and salto fwd. str. w. 5/2 t.
+420,Vault,2,1.6,220,Handspring sw. with ¼ t.
+421,Vault,2,2.4,226,Tsukahara piked.
+422,Vault,2,1.8,221,Handspring sw. with 3/4 t.
+423,Vault,2,2.4,227,Tsukahara t. with ½ t.
+424,Vault,2,2,222,Handspring sw. with 5/4 t.
+425,Vault,2,2.8,228,Hdspr. sw. w. ¼ t. a. salto fwd. t. w. ½ t. or Tsuk. t. w. 1/1 t.(Kasamatsu)
+426,Vault,2,2.4,223,Hdspr. sw. with. ¼ t. a. salto fwd. t.
+427,Vault,2,3.2,229,Tsukahara t. w. 3/2 t.or Kasamatsu t. ½ t
+428,Vault,2,2.8,224,Handspring sw. w. ¼ t. a. salto fwd. p.
+429,Vault,2,4,230,Tsukahara t. with 2/1 t.(Barbieri)
+430,Vault,2,2.2,225,Handspring sw. w. ¼ t. a. salto bwd. t.(Tsukahara)
+431,Vault,2,3.2,270,Tsukahara stretched.
+432,Vault,2,5.6,276,Kasamatsu str. with 2/1 t.
+433,Vault,2,3.6,271,Tsukahara str. with ½ t. or Hdspr. sw ¼ t. salto fwd str.
+434,Vault,2,6,277,Kasamatsu str. with 5/2 t. or Tsukahara st. with 7/2 t.(López)
+435,Vault,2,4,272,Tsukahara str. w. 1/1 t.
+436,Vault,2,4.4,273,Kasamatsu str. with ½ t. or Tsukahara str. w. 3/2 t.
+437,Vault,2,5.2,285,Tsukahara with salto bwd. t.(Yeo)
+438,Vault,2,4.8,274,Kasamatsu str. w. 1/1 t. or Tsukahara str. w. 2/1 t.(Akopian)
+439,Vault,2,5.6,286,Tsukahara with salto bwd. piked.(Lu Yu Fu)
+440,Vault,2,5.2,275,Kasamatsu str. with 3/2 t. (Driggs)
+441,Vault,2,6,287,Double Tsukahara with 1/1 twist.(Ri Se Gwang)
+442,Vault,3,1.6,335,"Round off, handspring bwd."
+443,Vault,3,3.2,341,Yurchenko t. with 3/2 t.
+444,Vault,3,1.8,336,"Round off, handspring bwd. with ½ turn."
+445,Vault,3,4,342,Yurchenko t. with 2/1 t.
+446,Vault,3,2,337,"Round off, handspring bwd. with 1/1 turn."
+447,Vault,3,2.4,343,Yurchenko piked.
+448,Vault,3,2.2,338,"Round off, hdspr. bwd. and salto bwd. t.(Yurchenko)"
+449,Vault,3,2.4,339,Yurchenko t. with ½ t.
+450,Vault,3,2.8,340,Yurchenko t. with 1/1 t.
+451,Vault,3,3.2,370,Yurchenko stretched.
+452,Vault,3,5.6,376,Yurchenko Stretched 3/1 t. (Shirai - KIM Hee Hoon)
+453,Vault,3,3.6,371,Yurchenko stretched with ½ t.
+454,Vault,3,4,372,Yurchenko stretched with 1/1 t.
+455,Vault,3,4.4,373,Yurchenko stretched with 3/2 t.
+456,Vault,3,5.2,385,Yurchenko and salto bwd. t.(Melissanidis)
+457,Vault,3,4.8,374,Yurchenko stretched with 2/1 t.
+458,Vault,3,5.6,386,Melissanidis piked.
+459,Vault,3,5.2,375,Yurchenko stretched with 5/2 t.(Shewfelt)
+460,Vault,4,3.4,456,"Round off, ½ t. and hdspr. fwd. and salto fwd. p. with ½ t."
+461,Vault,4,2,451,"Round off, ½ t. and hdspr. fwd. with ½ t."
+462,Vault,4,3.4,456,"Round off, ½ t. and hdspr. fwd. and salto fwd. p. with ½ t. (Nemov)"
+463,Vault,4,2.2,452,"Round off, ½ t. and hdspr. fwd. with 1/1 t."
+464,Vault,4,2.6,453,"Round off, ½ t. and hdspr. fwd. and salto fwd. tucked."
+465,Vault,4,3.8,471,"Round off, ½ t. and hdspr. fwd. and salto fwd. str."
+466,Vault,4,3,454,"Round off, ½ t. and hdspr. fwd. and salto fwd. tucked with ½ t."
+467,Vault,4,4.2,472,"Round off, ½ t. and hdspr. fwd. and salto fwd. str. with ½ t."
+468,Vault,4,3,455,"Round off, ½ t. a. hdspr. fwd. and salto fwd. p."
+469,Vault,4,4.6,473,"Round off, ½ t. and hdspr. fwd. and salto fwd. str. with 1/1 t."
+470,Vault,4,5,474,"Round off, ½ t. and hdspr. fwd. and salto fwd. stretched with 3/2 t."
+471,Vault,4,5.4,475,"Round off, ½ t. and hdspr. fwd. and salto fwd. stretched with 2/1 t."
+472,Vault,4,5.8,476,"Round off, ½ t. and hdspr. fwd. and salto fwd. str. with 5/2 t.(Li Xiao Peng)"
+473,Vault,4,5.4,478,"Round off, ½ t. a. hdspr. fwd. and double salto fwd. tucked."
+474,Vault,5,2.2,560,Scherbo entry to back handspring.
+475,Vault,5,3.4,566,Scherbo entry to salto bwd. tucked with 1/1 turn.
+476,Vault,5,4.6,572,Scherbo with 1/1 t.
+477,Vault,5,2.4,561,Scherbo entry to back handspring with ½ turn.
+478,Vault,5,3.8,567,Scherbo entry to salto bwd. tucked with 3/2 turn.
+479,Vault,5,5,573,Scherbo with 3/2 t.
+480,Vault,5,2.6,562,Scherbo entry to back handspring with 1/1 turn.
+481,Vault,5,5.4,574,Scherbo with 2/1 t.
+482,Vault,5,2.8,563,Scherbo entry to salto bwd. tucked.
+483,Vault,5,5.8,575,Scherbo with 5/2 t.
+484,Vault,5,3,564,Scherbo entry to salto bwd. piked.
+485,Vault,5,3.8,570,Scherbo entry to salto bwd. stretched.(Scherbo)
+486,Vault,5,3,565,Scherbo entry to salto bwd. tucked with ½ turn.
+487,Vault,5,4.2,571,Scherbo with ½ t.
+488,Parallel Bars,1,A,1,Any handstand on 1 or 2 rails (2 s.).
+489,Parallel Bars,1,A,7,Any L-sit on 1 or 2 rails (2 s.).
+490,Parallel Bars,1,A,13,Straddle cut fwd. to support or L-sit (2 s.).
+491,Parallel Bars,1,A,19,Straddle cut bwd. to support.
+492,Parallel Bars,1,B,2,Bent arm swing fwd. to hop ½ t. to sup.(Kato)
+493,Parallel Bars,1,B,8,Swing fwd. w. 1/1 t. to up. arm hang.(Carminucci)
+494,Parallel Bars,1,B,14,Straddle cut bwd. to hdst.
+495,Parallel Bars,1,B,20,Strad. cut bwd. and salto fwd. to up. arm hang.
+496,Parallel Bars,1,C,3,Stützkehr fwd. to hdst.(to 1 or 2 bars).
+497,Parallel Bars,1,C,15,Diamidov and ½ turn to upper arms.(Salazar)
+498,Parallel Bars,1,C,21,Swing fwd. w. 1/1 t. on 1 arm to hdst.(Diamidov)
+499,Parallel Bars,1,D,10,Stützkehr fwd. or salto bwd. to hdst. sideways on 1 rail (also with additional ¼ or ¾ turn to hdst.).(Bilozerchev - Peters)
+500,Parallel Bars,1,D,16,¾ Diamidov and rear vault to side hang on 1 bar.(De Freitas)
+501,Parallel Bars,1,D,22,Diamidov with ½
+502,Parallel Bars,1,B,26,"Any press w. bent arm str. body, or str. arm bent body to hdst., on 1 or 2 rails (2 s.) also straddled."
+503,Parallel Bars,1,B,32,"Swing fwd. to hdst., hop to support.(Carballo)"
+504,Parallel Bars,1,C,27,Makuts to upper arm hang or ¾ Diamidov ¼ Healy to support.
+505,Parallel Bars,1,C,33,Salto bwd to handstand. Also to one rail.
+506,Parallel Bars,1,C,45,Salto bwd. with ½ t. to up. arm hang.(Toumilovich)
+507,Parallel Bars,1,D,28,Swing forward with 5/4 t. on one arm through-hdst. and healy to up. arm.
+508,Parallel Bars,1,D,34,Salto backward with straddle cut to support.
+509,Parallel Bars,1,D,40,Salto bwd to handstand 1 rail (connected to Healy type element).(Rumbutis)
+510,Parallel Bars,1,D,46,Double salto t. to up. arm hang.(Morisue)
+511,Parallel Bars,1,E,29,¾ Diamidov & ¾ Healy on the other hand to supp.(Makuts)
+512,Parallel Bars,1,E,47,Double salto p. to up. arm hang.(Huang Liping)
+513,Parallel Bars,1,F,30,Swing forward with 5/4 t. on one arm through hdst. and healy to support.(Zonderland)
+514,Parallel Bars,1,B,50,Hdst. with ¼ t. and fall back to sup. with ¼ t.
+515,Parallel Bars,1,B,62,Stützkehr bwd. to support.
+516,Parallel Bars,1,B,68,Healy to upper arm hang.
+517,Parallel Bars,1,C,51,(Brändström)Hdst. with ¾ t. and fall back to sup. with ¼ t.
+518,Parallel Bars,1,C,57,Stützkehr bwd. with straddle cut bwd. to sup.
+519,Parallel Bars,1,C,63,Stützkehr bwd. through hdst. to support.(Novikov)
+520,Parallel Bars,1,C,69,"From hdst. on 1 rail, Healy to upper arm hang."
+521,Parallel Bars,1,D,52,(Suarez)3/2 salto bwd. with ½ t. to up. arm hang.
+522,Parallel Bars,1,D,70,Healy to support (also from hdst. on 1 rail).(Healy)
+523,Parallel Bars,1,E,71,"Following a swing element (min. B) to hdst on 1 rail, Healy (360° or more) to support."
+524,Parallel Bars,1,A,79,Any hdst. with ½ turn fwd. (also with 2 s.).
+525,Parallel Bars,1,A,85,½ turn bwd. in handstand (also with 2 s.).
+526,Parallel Bars,1,B,74,Swing bwd. with ½ t. hop to hdst.
+527,Parallel Bars,1,B,80,Any 1/1 pirouette in hdst. on 2 rails.
+528,Parallel Bars,1,B,86,"From hdst. on 1 rail, ½ or ¾ pir. fwd. or bwd. in hdst."
+529,Parallel Bars,1,C,75,Swing bwd. with ¾ t. hop to hdst.
+530,Parallel Bars,1,C,93,"From hdst., salto fwd to support or from hdsd. with rotated grip, inlocate to support."
+531,Parallel Bars,1,D,76,Swing bwd. with 1/1 t. hop to hdst. (Gatson 1)
+532,Parallel Bars,1,E,77,Gatson 1 with ¼ t to hdst. on 1 rail and ¼ t. hdst. on 2 rails.(Gatson 2)
+533,Parallel Bars,1,E,95,5/4 salto fwd. strad. through support to hang or directly to hang.(Lee Chul Hon/Sasaki)
+534,Parallel Bars,1,A,115,"On end, 1 circle or flair."
+535,Parallel Bars,1,B,98,5/4 salto fwd. t. or p. to upper arm hang.
+536,Parallel Bars,1,B,104,Salto fwd. t. or p. with ¼ t. to hang on 1 rail.
+537,Parallel Bars,1,B,116,"In center or on end facing out, 1 circle or flair."
+538,Parallel Bars,1,C,99,Salto fwd to support.
+539,Parallel Bars,1,C,105,Salto fwd. t. or p. to hang at the end of the bars.
+540,Parallel Bars,1,C,111,5/4 salto forward str. to upper arm hang
+541,Parallel Bars,1,C,117,"On end, Russian wende swing (360°).(Delesalle)"
+542,Parallel Bars,1,D,100,5/4 salto fwd. straddled to up. arm hang.
+543,Parallel Bars,1,D,106,Double salto fwd. t. to up. arm hang.
+544,Parallel Bars,1,E,101,5/4 salto fwd. strad. to bent arm sup.
+545,Parallel Bars,1,E,107,Double salto fwd. p. to up. arm hang.
+546,Parallel Bars,1,E,113,(Urzica)Salto fwd. with 1/1 t. to up. arm hang.
+547,Parallel Bars,1,C,123,Any flair to hdst.
+548,Parallel Bars,1,C,129,Any flair with ½ t. to hdst.
+549,Parallel Bars,2,A,1,Forward uprise to support.
+550,Parallel Bars,2,A,7,Fwd. uprise with ¼ t. to hang on 1 rail.
+551,Parallel Bars,2,B,2,Fwd. uprise and straddle cut bwd to handstand.
+552,Parallel Bars,2,B,8,Roll bwd. with ½ t. from up. arm. hang uprise to Kato hop to sup.(Watanabe)
+553,Parallel Bars,2,B,14,Roll bwd to handstand with straight arms.
+554,Parallel Bars,2,B,20,Salto bwd. with strad. cut to up. arm hang
+555,Parallel Bars,2,C,21,Roll bwd. with strad. cut to support.
+556,Parallel Bars,2,E,5,Fwd. uprise with ½ t. to handstand.
+557,Parallel Bars,2,E,11,Fwd. uprise to Makuts to upper arm.
+558,Parallel Bars,2,E,17,Fwd. uprise with 1/1 t. to handstand.(Richards)
+559,Parallel Bars,2,E,23,Roll bwd with salto bwd tuck to upper arm hang.(Dimitrenko)
+560,Parallel Bars,2,G,12,Fwd. uprise to Makuts to support.(Tsolakidis 1)
+561,Parallel Bars,2,F,18,Fwd. uprise with 3/2 t. to handstand.(Tsolakidis 2)
+562,Parallel Bars,2,F,24,Roll bwd with salto bwd piked to upper arm hang.(Li Xiaopeng)
+563,Parallel Bars,2,B,32,Bwd. uprise to handstand (or w. ½ t).
+564,Parallel Bars,2,B,38,Bwd. uprise with ½ t. and straddle cut bwd to upper arm hang.
+565,Parallel Bars,2,B,44,Bwd. uprise with ½ t. to support.
+566,Parallel Bars,2,C,33,Bwd. uprise with ½ t. hop to handstand.
+567,Parallel Bars,2,C,39,Bwd. uprise with ½ t. a. strad. cut bwd. to sup.
+568,Parallel Bars,2,C,45,"Bwd. uprise and 5/4 salto fwd. t., p. or strad. to up.arm hang.(Yamawaki)"
+569,Parallel Bars,2,D,28,Roll bwd. with ½ t. tuck to upper arm hang.. agrupado al apoyo bra-quial.(Harada)
+570,Parallel Bars,2,D,34,Bwd. uprise with ¾ t. hop to hdst. on 1 rail.
+571,Parallel Bars,2,D,46,Bwd. uprise and salto fwd. p. to sup.
+572,Parallel Bars,2,E,29,Roll bwd. with ½ t. tuck to hang.. agrupado a la suspensión.(Dalton)
+573,Parallel Bars,2,E,47,Bwd. uprise and double salto fwd. t. to up arm hang.
+574,Parallel Bars,2,A,55,Bwd. uprise and strad. cut or flank over to sup.
+575,Parallel Bars,2,B,56,Bwd. uprise and strad. cut or flank over to sup.
+576,Parallel Bars,2,E,53,Bwd. uprise and 5/4 salto fwd. straddled to up. Arm hang.
+577,Parallel Bars,3,B,8,Moy piked with stradd. cut bwd. and ½ t. to up. arm hang (also legs together).
+578,Parallel Bars,3,B,14,Moy to support bent legs (also without grip release).
+579,Parallel Bars,3,C,3,"Swing forward, straddle cut backward, and regrasp with straight body at horizontal to bent and upper arm."
+580,Parallel Bars,3,C,9,Moy piked with 1/1 t. to up. arm hang.(Nolet)
+581,Parallel Bars,3,C,15,(Moy)Moy to support str. legs (also without grip release).
+582,Parallel Bars,3,C,21,Giant swing bwd. to hdst. or with inlocation fwd. (also with ¼ or ½ turn and to one rail).
+583,Parallel Bars,3,D,4,Moy piked with straddle bwd to hdst.(Tippelt)
+584,Parallel Bars,3,D,10,"Moy and salto fwd. T., p. Or strad. To upper arm hang. (Giraldo)"
+585,Parallel Bars,3,D,22,Giant swing bwd. to hdst. on one rail (connected to Healy type element).(Piasecky)
+586,Parallel Bars,3,E,5,"Swing forward, straddle cut backward, and regrasp with straight body at horizontal.(Bhavsar)"
+587,Parallel Bars,3,B,32,Swing down with salto bwd. str. to hang.
+588,Parallel Bars,3,B,44,Giant swing bwd. w. strad. cut to up. arm hang.
+589,Parallel Bars,3,C,33,Giant swing bwd. with ½ t. to up. arm hang.½ (Gushiken)
+590,Parallel Bars,3,D,28,"Giant swg. bwd. with Diamidov to hdst., also to one rail."
+591,Parallel Bars,3,D,34,Giant swing bwd. with ½ t. to support.½ (Marinitch)
+592,Parallel Bars,3,D,40,Giant swing bwd. with Makuts to upper hang.(Dauser)
+593,Parallel Bars,3,D,46,(Korolev)Giant swing bwd. with straddle cut to support or bent arms support.
+594,Parallel Bars,3,E,29,or ½ Giant swg. Diamidov with ¼ or ½ t. to hdst. or ½
+595,Parallel Bars,3,E,35,Giant swg. bwd. with Diamidov to hdst. one rail (connected to Healy type element).
+596,Parallel Bars,3,E,47,Giant swing bwd. with ½ t. and str. cut bwd. to up. arms.(Sosa)
+597,Parallel Bars,3,G,36,Belle with 1/1 turn.(Quintero)
+598,Parallel Bars,3,A,61,Glide kip
+599,Parallel Bars,3,B,62,Glide kip. with 1/2 t. to support.
+600,Parallel Bars,3,B,68,Glide kip to strad. cut bwd. hdst. on 1 or 2 r.
+601,Parallel Bars,3,C,57,(Chartrand)Giant swing bwd. and salto with ½ t to hang on the end.
+602,Parallel Bars,3,C,63,Glide kip bwd. to hdst.
+603,Parallel Bars,3,D,52,(Belle)
+604,Parallel Bars,3,D,58,Giant swing bwd. and salto with ½ t or p. to up. arm hang or hang.
+605,Parallel Bars,3,E,53,Belle piked.
+606,Parallel Bars,3,E,59,(Torres)Giant swing bwd. and salto with ½ t or p. to support.
+607,Parallel Bars,3,E,65,Giant swing bwd. and salto with ½ str to up. arm hang.(Fokin)
+608,Parallel Bars,3,F,60,(Tanaka)Giant swing bwd. with ½ t. and 3/2 salto fwd to up arm hang.
+609,Parallel Bars,3,B,74,Glide kip one rail through L-sit strad. to hdst.
+610,Parallel Bars,3,B,80,(Li Donghua)
+611,Parallel Bars,3,C,75,Glide kip through L-sit p. to hdst.
+612,Parallel Bars,3,D,76,Glide kip through L-sit p.to hdst. and hop with 3/4 t or more.
+613,Parallel Bars,3,A,97,Cast to upper arm hang.
+614,Parallel Bars,3,A,115,Basket with travel to hang
+615,Parallel Bars,3,B,98,Cast to support.
+616,Parallel Bars,3,B,104,Cast with ½ t. to up. arm hang.
+617,Parallel Bars,3,B,116,Basket to support
+618,Parallel Bars,3,C,99,Felge with ½ t. to upper arm hang.
+619,Parallel Bars,3,C,105,Cast with ½ t. to support.
+620,Parallel Bars,3,C,111,Cast to straddle cut backward to handstand.(Arican)
+621,Parallel Bars,3,C,117,Basket with immed. straddle cut to support.
+622,Parallel Bars,3,D,100,Felge with ½ t. to rear support.
+623,Parallel Bars,3,D,106,Basket to handstand or with inlocation (el-grip) and hop to hdst. Also to one rail.
+624,Parallel Bars,3,E,107,"Basket with ¼, ¾ or ½ t. to handstand."
+625,Parallel Bars,3,E,119,Basket to one rail hdst. (connected to Healy type element).(Chiarlo)
+626,Parallel Bars,3,F,114,Basket with 1/1 t. to handstand.(Teng Hai Bin)
+627,Parallel Bars,3,G,108,Basket with 5/4 t. to handstand.(Zhou Shixiong)
+628,Parallel Bars,3,G,120,Basket through handstand to Makuts. (Yamamuro)
+629,Parallel Bars,3,A,121,Basket forward to support.
+630,Parallel Bars,3,B,122,Basket forward with ½ t. to support.
+631,Parallel Bars,3,B,128,Shoot up to hdst. and hop to other rail.
+632,Parallel Bars,3,D,130,Shoot up with ¼ t. to hdst.
+633,Parallel Bars,3,D,136,Straddled shoot to hdst on 1 rail.
+634,Parallel Bars,3,E,125,(Tejada)Basket with salto bwd t. to up. arm hang.
+635,Parallel Bars,4,A,1,Salto fwd. piked or stretched.
+636,Parallel Bars,4,A,19,Salto bwd. piked or str.
+637,Parallel Bars,4,B,2,Salto fwd. piked or str. with ½ t.
+638,Parallel Bars,4,B,20,Salto bwd. piked or str. with ½ t.
+639,Parallel Bars,4,C,3,Salto fwd. piked or str. with 1/1 or 3/2 t.
+640,Parallel Bars,4,C,9,Double salto fwd. t. from end.
+641,Parallel Bars,4,C,21,Salto bwd. piked or str. with 1/1 or 3/2 t.
+642,Parallel Bars,4,D,4,Salto fwd. piked or str. with 2/1 or 5/2 t.
+643,Parallel Bars,4,D,22,Salto bwd. str. with 2/1 t.(Kan)
+644,Parallel Bars,4,E,5,Double salto fwd. t.
+645,Parallel Bars,4,F,6,Double salto fwd. piked.(Belyavskiy)
+646,Parallel Bars,4,F,12,Double salto fwd. t. w. ½ t. or ½ t. doub. salt. bwd.
+647,Parallel Bars,4,G,18,Double salto fwd. piked with ½ t.
+648,Parallel Bars,4,G,24,Double salto fwd. tucked with 1/1 t.(Larduet)
+649,Parallel Bars,4,A,43,"From hang on end, salto bwd. stretched."
+650,Parallel Bars,4,B,32,Double salto bwd. t. from end.
+651,Parallel Bars,4,B,44,"From hang on end, double salto bwd. t."
+652,Parallel Bars,4,C,33,Double salto bwd. t.
+653,Parallel Bars,4,C,45,"From hang on end, dbl. salto bwd. piked."
+654,Parallel Bars,4,D,28,High wende and salto bwd t.or p.(Roethlisberger)
+655,Parallel Bars,4,D,34,Double salto bwd. pike.
+656,Parallel Bars,4,D,40,Double salto bwd. t. with ½ t. or salto bwd. ½ t. to salto fwd. tucked.
+657,Parallel Bars,4,D,46,"From hang on end, dbl. salto bwd. t. with 1/1 or ½"
+658,Parallel Bars,4,G,36,(Hiroyuki Kato)Double salto bwd. t. with 1/1 t.
+659,Parallel Bars,4,F,48,"From hang on end, dbl. salto bwd. t. with 2/1 t."
+660,Horizontal Bar,1,A,1,Back uprise to handstand.
+661,Horizontal Bar,1,A,7,Back uprise to handstand with ½ turn.
+662,Horizontal Bar,1,A,13,Giant swing fwd.
+663,Horizontal Bar,1,A,19,Giant swing fwd. with ½ t. thr. hdst.
+664,Horizontal Bar,1,B,2,Back uprise to hdst. with 1/1 turn also to mixt.
+665,Horizontal Bar,1,B,8,Swing bwd. and pirouette to hang.
+666,Horizontal Bar,1,B,14,Giant swing fwd. with 1/1 turn in mixt grip.
+667,Horizontal Bar,1,B,20,Flying giant swing fwd. or with½ turn.
+668,Horizontal Bar,1,C,9,Swing bwd. and pirouette to support.
+669,Horizontal Bar,1,C,15,Giant swing fwd. with 1/1 turn in double elgrip.
+670,Horizontal Bar,1,C,21,Flying giant swing fwd. with 1/1 t.
+671,Horizontal Bar,1,A,31,Giant swing bwd.
+672,Horizontal Bar,1,A,37,Giant swing bwd. with ½ turn.
+673,Horizontal Bar,1,A,43,Giant swing bwd. with hop to undergrip.
+674,Horizontal Bar,1,B,26,Giant swing fwd. with one arm in ungr. (360°).
+675,Horizontal Bar,1,B,32,One arm giant swing bwd. (360
+676,Horizontal Bar,1,B,44,Flying giant swing bwd.
+677,Horizontal Bar,1,C,27,(Zou Li Min)
+678,Horizontal Bar,1,C,45,Flying giant swing bwd. with 1/1 t. (Quast)
+679,Horizontal Bar,1,D,46,Flying giant swing bwd. with 2/1 t.
+680,Horizontal Bar,1,B,50,Giant swing bwd. with hop ½ t. to el-grip.
+681,Horizontal Bar,1,B,56,Giant swing bwd. with ½ t. to el-grip.
+682,Horizontal Bar,1,B,62,Long swing fwd. with hop to el-grip.
+683,Horizontal Bar,1,B,68,El-grip giant swing.
+684,Horizontal Bar,1,C,51,"Giant swing bwd. with hop 3/2 t. to undergrip, mixed el-grip."
+685,Horizontal Bar,1,C,69,Giant swing rearways fwd. (Russian giant).
+686,Horizontal Bar,1,D,52,(Rybalko)Giant swing bwd. with hop 3/2 t. to double el- grip.
+687,Horizontal Bar,1,D,70,Giant swing rw. bwd. (Czech giant swing).
+688,Horizontal Bar,1,A,73,Giant swing bwd. with inlocation during swing and dislocate to hdst.
+689,Horizontal Bar,1,B,74,Steineman uprise w. ½ t. to support.(Ono)
+690,Horizontal Bar,1,C,75,Elgrip giant swg. with 1/1 t. thr. hdst. in mx. gr.
+691,Horizontal Bar,1,D,76,Giant swing rw. bwd. (Czech giant swing) with ½ turn to fwd giant swing.
+692,Horizontal Bar,2,B,2,Back uprise and straddle over to hang rw.
+693,Horizontal Bar,2,B,20,Back uprise and piked vault with ½ t. to hang.(Voronin)
+694,Horizontal Bar,2,C,3,Back uprise and strad. hecht with ½ t. to hang(Markelov)
+695,Horizontal Bar,2,C,9,Swing fwd. and vault bwd. strad. or piked to hang.(Tkatchev)
+696,Horizontal Bar,2,D,4,Markelov stretched with legs together.(Yamawaki)
+697,Horizontal Bar,2,D,10,Tkatchev stretched.
+698,Horizontal Bar,2,D,16,Tkatchev straddled with ½ t. to mix el-grip into back uprise to hdst.(Lynch)
+699,Horizontal Bar,2,D,22,"Stalder, stoop circle or free hip circle bwd to Tkatchev straddle.(Piatti)"
+700,Horizontal Bar,2,E,11,Tkatchev stretched with ½ t. to mix el-grip into back uprise to hdst.(Moznik)
+701,Horizontal Bar,2,E,17,Tkatchev straddled ½ t. to double elgrip.(Kulesza)
+702,Horizontal Bar,2,E,23,Piatti stretched.
+703,Horizontal Bar,2,F,6,Back uprise and hecht stretched with 3/2 t. to hang.(Walstrom)
+704,Horizontal Bar,2,F,12,Tkatchev stretched with 1/1 t.(Liukin)
+705,Horizontal Bar,2,F,24,Piatti stretched with ½ t. to mix el-grip into back uprise to hdst.(Kierzkowski)
+706,Horizontal Bar,2,B,26,Back uprise and rear vault with ¼ t. to hang.
+707,Horizontal Bar,2,C,33,"Swing bwd. and salto fwd. t., p. or strad. to hg. also from el-grip.(Jäger)"
+708,Horizontal Bar,2,D,28,Piatti piked.
+709,Horizontal Bar,2,D,34,"Salto fwd. stretched, also from el-grip.(Balabanov)"
+710,Horizontal Bar,2,D,46,Swing fwd. and counter salto fwd. strad. to hg.(Xiao Ruizhi)
+711,Horizontal Bar,2,E,29,Piatti with ½ t. to mix el-grip into back up. to hdst.
+712,Horizontal Bar,2,E,47,Yamawaki ½ t. stretched to mixed grip into back uprise to hdst.(Muñoz - Pozzo)
+713,Horizontal Bar,2,G,30,(Suarez)
+714,Horizontal Bar,2,F,36,Salto fwd. stretched with 1/1 t. also from el grip.(Winkler - Pogorelev)
+715,Horizontal Bar,2,G,42,Salto fwd. stretched with 2/1 t. also from el grip.
+716,Horizontal Bar,2,C,57,Czech giant and vault bwd. strad. to hang.
+717,Horizontal Bar,2,C,63,Swing fwd. and salto bwd. strad. w. ½ t. to hg.(Deltchev)
+718,Horizontal Bar,2,C,69,Swing fwd. and salto bwd. piked w. ½ t. to hang.
+719,Horizontal Bar,2,D,52,"(Gaylord) Salto fwd, tuck or strad. over the bar, also from el-grip."
+720,Horizontal Bar,2,E,59,Gaylord piked.
+721,Horizontal Bar,2,F,54,Gaylord with ½ t.(Pegan)
+722,Horizontal Bar,2,G,60,Pegan Pike.(Maras)
+723,Horizontal Bar,2,G,66,Kovacs stretched or piked with 1/1 turn.(Cassina)
+724,Horizontal Bar,2,F,72,Swing fwd. and salto bwd. w. 3/2 t. to hang.(Deff)
+725,Horizontal Bar,2,C,75,Stalder ½ t. to rear vault with ¼ t. to hang.(Jansen)
+726,Horizontal Bar,2,D,76,Salto bwd. ½ t.tucked over the bar.
+727,Horizontal Bar,2,D,82,(Kovacs)Double salto bwd. t. over the bar.
+728,Horizontal Bar,2,E,77,(Gaylord 2)Salto bwd. ½ t.piked over the bar.
+729,Horizontal Bar,2,E,83,Kovacs piked or stretched.
+730,Horizontal Bar,2,E,89,Kovacs with 1/1 t.(Kolman)
+731,Horizontal Bar,2,H,84,Kovacs with 2/1 t.(Bretschneider)
+732,Horizontal Bar,2,G,96,Kovacs with 3/2 t. to mix grip.(Shaham)
+733,Horizontal Bar,3,A,1,Kip to hdst. or from mixed grip to hdst w. ½ t.
+734,Horizontal Bar,3,A,13,"From hang or from support, free hip circle through handstand."
+735,Horizontal Bar,3,A,19,"From hang or from support, free hip circle through handstand with ½ turn."
+736,Horizontal Bar,3,B,2,Kip to hdst. in under or mixed grip w. 1/1 t. to mixed grip.
+737,Horizontal Bar,3,B,8,"(Weiler)From hdst., free hip circle fwd. thr. hdst."
+738,Horizontal Bar,3,B,14,tourWeiler with ½ turn. giro
+739,Horizontal Bar,3,B,20,"From hang or from support, free hip circle-through handstand with ½ turn to el grip."
+740,Horizontal Bar,3,C,3,Kip to hdst. in under or mixed grip w. 1/1 t. to el-grip.
+741,Horizontal Bar,3,C,9,Weiler with 1/1 turn to mixed - grip.
+742,Horizontal Bar,3,D,10,Weiler with 1/1 turn to double el - grip.
+743,Horizontal Bar,3,A,25,"From hang or from support, free hip circle hop to handstand."
+744,Horizontal Bar,3,B,32,(Endo)Free circle fwd. straddled or legs together thr. hdst.
+745,Horizontal Bar,3,B,38,Endo with ½ t. thr. hdst.
+746,Horizontal Bar,3,B,44,(Stalder)Free circle bwd. straddle or legs together thr. hdst.
+747,Horizontal Bar,3,C,27,"From hang or from support, free hip circle hop through handstand with 1/1 turn"
+748,Horizontal Bar,3,C,39,Endo. with 1/1 t. thr. hdst. in mixt grip.
+749,Horizontal Bar,3,C,45,Stalder with hop 1/1 t. through hdst.
+750,Horizontal Bar,3,D,40,Endo with 1/1 t. thr. hdst. in el-grip.
+751,Horizontal Bar,3,D,46,Stalder with hop 3/2 turn through hdst. in mix el-grip.
+752,Horizontal Bar,3,E,47,Stalder with hop 3/2 turn through hdst. in el-grip.
+753,Horizontal Bar,3,B,50,Stalder with ½ turn through hdst.
+754,Horizontal Bar,3,B,56,Stalder with hop through hdst.
+755,Horizontal Bar,3,C,51,Stalder with ½ turn through hdst. in el-grip.
+756,Horizontal Bar,3,C,57,Stalder with hop through hdst. in el-grip.
+757,Horizontal Bar,3,C,63,Stoop circle rearward fwd. through hdst. (Adler).
+758,Horizontal Bar,3,D,64,Adler with ½ t. through hdst. in ovgr.
+759,Horizontal Bar,3,D,70,Adler hop to hdst. in ungr. or ovgr. or mixed grip.
+760,Horizontal Bar,3,E,65,(Fuentes)Adler and 1/1 t. through hdst. in ungr.
+761,Horizontal Bar,3,A,79,Back toss to dorsal hang.
+762,Horizontal Bar,3,B,80,"From dorsal hang, uprise fwd. to support rw.(Steineman)"
+763,Horizontal Bar,3,B,92,Steineman uprise w. flank bwd. to sup
+764,Horizontal Bar,3,C,81,Stoop in and free back toss to dorsal hang.
+765,Horizontal Bar,3,C,87,Steineman uprise w. stoop or to hdst.(Koste)
+766,Horizontal Bar,3,C,93,Endo in el-grip thr. hdst.
+767,Horizontal Bar,3,D,76,"Adler and 1/1 t. thr. hdst. in mixed grip, also with hop."
+768,Horizontal Bar,3,D,94,Endo in el-grip and 1/1 t. to mixed grip or under-grip.
+769,Horizontal Bar,3,A,103,Stoop circle fwd. to straddle cut to hang or sup.
+770,Horizontal Bar,3,B,104,Stoop circle fwd. to straddle cut through hdst.
+771,Horizontal Bar,3,C,105,Stoop circle fwd. to straddle cut with ½ t. (Carballo)
+772,Horizontal Bar,3,D,100,Koste ½ turn to elgrip. Koste con ½ giro a cubital.(Likhovitskiy)
+773,Horizontal Bar,3,D,106,Carballo with ½ turn to mixed el-grip.(Quintero)
+774,Horizontal Bar,3,E,107,Quintero to el-grip.
+775,Horizontal Bar,4,A,1,"Salto fwd. piked or stretched, also with ½ t."
+776,Horizontal Bar,4,B,2,Salto fwd. str. with 1/1 or 3/2 t.
+777,Horizontal Bar,4,C,3,Salto fwd. str. with 2/1 or 5/2 t.
+778,Horizontal Bar,4,C,9,Double salto fwd. t. or p.or with
+779,Horizontal Bar,4,C,21,Double salto fwd. t. or p. or with ½ turn over the bar.
+780,Horizontal Bar,4,D,10,Double salto fwd. t. or p. with 1/1 or 3/2 t.
+781,Horizontal Bar,4,D,16,Double salto fwd. str. or with
+782,Horizontal Bar,4,D,22,Dbl. salto fwd. t. or p. w. 1/1 or 3/2 t. over the bar.
+783,Horizontal Bar,4,E,11,Double salto fwd. t. or p. with 2/1 or 5/2 t.
+784,Horizontal Bar,4,E,17,Double salto fwd. str. with 1/1 or 3/2 t.
+785,Horizontal Bar,4,G,6,Triple salto fwd. t. (Rumbutis)
+786,Horizontal Bar,4,A,25,Salto bwd. piked or str. also with ½ or 1/1 t.
+787,Horizontal Bar,4,B,26,Salto bwd. str. with 3/2 or 2/1 t.
+788,Horizontal Bar,4,B,32,Double salto bwd. tuck or pike.
+789,Horizontal Bar,4,C,27,Salto bwd. str. with 5/2 or 3/1 t.
+790,Horizontal Bar,4,C,33,Double salto bwd. t. or pike with 1/1 t.(Tsukahara)
+791,Horizontal Bar,4,C,39,Double salto bwd. str.
+792,Horizontal Bar,4,D,34,Double salto bwd. t. or p. with 2/1 t.
+793,Horizontal Bar,4,D,40,Double salto bwd. str. with 1/1 t.
+794,Horizontal Bar,4,E,41,Double salto bwd. str. with 2/1 t.(Watanabe)
+795,Horizontal Bar,4,F,42,(Fedorchenko)Double salto bwd. str. with 3/1 t.
+796,Horizontal Bar,4,F,48,(Andrianov)(Hoffmann)Triple salto bwd. t. or over the bar.
+797,Horizontal Bar,4,A,61,"Hecht strad., hecht or hecht w. ½ t."
+798,Horizontal Bar,4,B,50,Double salto bwd. t. or p. over the bar.
+799,Horizontal Bar,4,B,62,Hecht w. 1/1 or 3/2 t.
+800,Horizontal Bar,4,C,51,Dbl. salto bwd. t. or p. with 1/1 t. over the bar.
+801,Horizontal Bar,4,C,57,Double salto bwd. str over the bar.
+802,Horizontal Bar,4,D,52,Double salto bwd. t. or p. with 2/1 t. over the bar
+803,Horizontal Bar,4,D,58,Double salto bwd. str. w. 1/1 t. over the bar.(Hayden)
+804,Horizontal Bar,4,D,64,Hecht w. 2/1 t.
+805,Horizontal Bar,4,G,54,Triple salto bwd. p.(Fardan)
+806,Horizontal Bar,4,G,60,Triple salto bwd. t. with 1/1 t.(Belle)
