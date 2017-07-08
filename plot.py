@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import toyplot
 import toyplot.html
+from pathlib import Path
 
 def load_csv(csv):
     with open(csv, 'r') as f:
@@ -40,16 +41,18 @@ def plot(app_name, data):
     )
     app_table.body.grid.hlines[[0,-1],...] = "single"
     app_table.body.grid.vlines[...,[0,-1]] = "single"
+    plot_name = "{}.html".format(app_name)
+    plot_dir = str(Path('.', 'plots', plot_name))
     toyplot.html.render(
         app_canvas,
-        "{}.html".format(app_name),
+        plot_dir,
     )
 
-def graf(app_names, data):
+def render_plots(app_names, data):
     for app_name in app_names:
         plot(app_name, data)
 
 cop = load_csv('code_of_points_MAG_2020.csv')
 apps = cop.app.unique()
 
-graf(apps, cop)   
+render_plots(apps, cop)   
