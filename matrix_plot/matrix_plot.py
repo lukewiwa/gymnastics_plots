@@ -52,7 +52,7 @@ def render_plots(app_names, data):
     for app_name in app_names:
         plot(app_name, data)
 
-cop = load_csv('code_of_points_MAG_2020.csv')
+cop = load_csv(str(Path('..','code_of_points_MAG_2020.csv')))
 apps = cop.app.unique()
 
 render_plots(apps, cop)   
