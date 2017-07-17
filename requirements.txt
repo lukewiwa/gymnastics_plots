@@ -11,5 +11,6 @@ pypng==0.0.18
 python-dateutil==2.6.0
 pytz==2017.2
 reportlab==3.4.0
+scipy==0.19.1
 six==1.10.0
 toyplot==0.14.0
