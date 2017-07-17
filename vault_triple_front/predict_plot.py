@@ -4,6 +4,7 @@ import toyplot.html
 from scipy.optimize import curve_fit
 import json
 
+
 class Linear:
     x_axis = np.linspace(0, 3)
 
@@ -12,7 +13,8 @@ class Linear:
         self.m, self.b = np.polyfit(x_values, y_values, 1)
         self.equation = self.m * self.x_axis + self.b
 
-class Exponential():
+
+class Exponential:
     x_axis = np.linspace(0, 3)
 
     def func(self, x, a, b, c):
@@ -20,12 +22,17 @@ class Exponential():
 
     def __init__(self, x_values, y_values):
         self.x, self.y = x_values, y_values
-        popt, pcov = curve_fit(self.func, x_values, y_values)
+        popt, self.pcov = curve_fit(self.func, x_values, y_values)
         self.a, self.b, self.c = popt
         self.equation = self.func(self.x_axis, self.a, self.b, self.c)
     
+    def standard_error(self):
+        variance = np.diagonal(self.pcov)
+        std_error = np.sqrt(variance)
+        return std_error
 
-class Plot():
+
+class Plot:
     x_axis = np.linspace(0, 3)
 
     def __init__(self, x_values, y_values):
@@ -63,3 +70,7 @@ class Plot():
 
 salto = np.array([0, 1, 2])
 hspring = np.array([2.0, 2.8, 5.6])
+
+if __name__ == "__main__":
+    plot = Plot(salto, hspring)
+    plot.plot()
