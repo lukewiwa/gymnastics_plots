@@ -15,7 +15,8 @@ class Linear:
         self.x, self.y = x_values, y_values
         popt, self.pcov = curve_fit(self.func, x_values, y_values)
         self.m, self.b = popt
-        self.equation = self.m * self.x_axis + self.b
+        self.equation = self.func(self.x_axis, self.m, self.b)
+        self.triple_front = self.func(3, self.m, self.b)
 
     def standard_error(self):
         variance = np.diagonal(self.pcov)
@@ -33,6 +34,7 @@ class Exponential:
         popt, self.pcov = curve_fit(self.func, x_values, y_values)
         self.a, self.b = popt
         self.equation = self.func(self.x_axis, self.a, self.b)
+        self.triple_front = self.func(3, self.a, self.b)
     
     def standard_error(self):
         variance = np.diagonal(self.pcov)
@@ -51,7 +53,7 @@ class Plot:
     def plot(self):
         canvas = toyplot.Canvas(width=400, height=400)
         axes = canvas.cartesian(
-            label="Vault Extrapolations",
+            label="Hand Spring Extrapolations",
             xlabel="Rotations",
             ylabel="Value",
         )
