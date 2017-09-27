@@ -8,23 +8,31 @@ import json
 class Linear:
     x_axis = np.linspace(0, 3)
 
-    def __init__(self, x_values, y_values):
-        self.x, self.y = x_values, y_values
-        self.m, self.b = np.polyfit(x_values, y_values, 1)
-        self.equation = self.m * self.x_axis + self.b
-
-
-class Exponential:
-    x_axis = np.linspace(0, 3)
-
-    def func(self, x, a, b, c):
-        return a*np.exp(-b*x) + c
+    def func(self, x, m, b):
+        return m*x + b
 
     def __init__(self, x_values, y_values):
         self.x, self.y = x_values, y_values
         popt, self.pcov = curve_fit(self.func, x_values, y_values)
-        self.a, self.b, self.c = popt
-        self.equation = self.func(self.x_axis, self.a, self.b, self.c)
+        self.m, self.b = popt
+        self.equation = self.m * self.x_axis + self.b
+
+    def standard_error(self):
+        variance = np.diagonal(self.pcov)
+        std_error = np.sqrt(variance)
+        return std_error
+
+class Exponential:
+    x_axis = np.linspace(0, 3)
+
+    def func(self, x, a, b):
+        return a*np.exp(-b*x) + 1.679
+
+    def __init__(self, x_values, y_values):
+        self.x, self.y = x_values, y_values
+        popt, self.pcov = curve_fit(self.func, x_values, y_values)
+        self.a, self.b = popt
+        self.equation = self.func(self.x_axis, self.a, self.b)
     
     def standard_error(self):
         variance = np.diagonal(self.pcov)
