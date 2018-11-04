@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import toyplot
-import toyplot.html
+import toyplot.svg
 from pathlib import Path
 
 def load_csv(csv):
@@ -41,9 +41,9 @@ def plot(app_name, data):
     )
     app_table.body.grid.hlines[[0,-1],...] = "single"
     app_table.body.grid.vlines[...,[0,-1]] = "single"
-    plot_name = "{}.html".format(app_name)
+    plot_name = "{}.svg".format(app_name)
     plot_dir = str(Path('.', 'plots', plot_name))
-    toyplot.html.render(
+    toyplot.svg.render(
         app_canvas,
         plot_dir,
     )
@@ -55,4 +55,4 @@ def render_plots(app_names, data):
 cop = load_csv(str(Path('..','code_of_points_MAG_2020.csv')))
 apps = cop.app.unique()
 
-render_plots(apps, cop)   
+render_plots(apps, cop)
