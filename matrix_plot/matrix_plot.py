@@ -39,6 +39,7 @@ def plot(app_name, data):
         tlabel=tlabel,
         llabel=llabel,
     )
+    app_canvas.color_scale(colormap, x1=100, y1=550, x2=400, y2=550, label="Number of Skills");
     app_table.body.grid.hlines[[0,-1],...] = "single"
     app_table.body.grid.vlines[...,[0,-1]] = "single"
     plot_name = "{}.svg".format(app_name)
